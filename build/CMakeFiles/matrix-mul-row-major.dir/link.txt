@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/matrix-mul-row-major.dir/program0.cpp.o" -o matrix-mul-row-major 
